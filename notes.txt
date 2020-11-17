@@ -1,0 +1,4 @@
+create a function that returns the URL with anbything after the anchor (#) is removed.
+
+example: www.codewarz.com#about will return www.codewarz.com
+example: www.codewarz.com?page=1 will return www.codewarz.com?page=1
